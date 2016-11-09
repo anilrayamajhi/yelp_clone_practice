@@ -14,7 +14,7 @@ const
   dest    = join(root, 'dist'),
 
   NODE_ENV = process.env.NODE_ENV,
-  isDev = NODE_ENV === 'development',
+  isDev = NODE_ENV === 'development'
 
   // cssModulesNames = `${isDev ? '[path][name]__[local]__' : ''}[hash:base64:5]`;
   // matchCssLoaders = /(^|!)(css-loader)($|!)/;
