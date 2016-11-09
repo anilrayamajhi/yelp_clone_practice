@@ -1,5 +1,4 @@
 {
-  "_comment": "react-hmre: allows hot-reloading which we use for dev environment",
   "presets": ["es2015", "stage-0", "react"],
   "env": {
     "development": {
